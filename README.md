@@ -1,3 +1,3 @@
 # git-test
 
-Repo to try our git commands
+Repo to try out git commands
