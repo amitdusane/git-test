@@ -1,9 +1,5 @@
 My first commit in this file
 My second commit
 My third commit
-<<<<<<< HEAD
 My fourth commit
 My fifth commit
-=======
-My fourth commit
->>>>>>> 0895dfd (Commit 4 - change data.txt)
